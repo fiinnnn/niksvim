@@ -35,6 +35,7 @@
     ./plugins/ui/zen-mode.nix
 
     # LSP
+    ./plugins/lsp/conform.nix
     ./plugins/lsp/lsp.nix
     ./plugins/lsp/lspsaga.nix
     ./plugins/lsp/fidget.nix
